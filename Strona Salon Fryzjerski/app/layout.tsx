@@ -10,7 +10,7 @@ const playfair = Playfair_Display({
 })
 
 export const metadata: Metadata = {
-  title: 'Studio Elegancji — Salon Fryzjerski Premium',
+  title: 'Studio Elegancji',
   description:
     'Profesjonalna pielęgnacja włosów w samym sercu miasta. Strzyżenie, koloryzacja premium i pielęgnacja spa. Umów się na wizytę już dziś.',
   generator: 'v0.app',
